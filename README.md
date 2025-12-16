@@ -6,7 +6,7 @@ Aplicación web interactiva para realizar predicciones con modelos de machine le
 
 -  Interfaz web interactiva con Streamlit
 -  Visualización EDA
--  Carga de 7 modelos pre-entrenados
+-  Carga de modelos pre-entrenados
 -  Visualización de métricas y resultados
 - Importancia de características
 
