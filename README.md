@@ -5,11 +5,10 @@ Aplicación web interactiva para realizar predicciones con modelos de machine le
 ##  Características
 
 -  Interfaz web interactiva con Streamlit
+-  Visualización EDA
 -  Carga de 7 modelos pre-entrenados
 -  Visualización de métricas y resultados
 - Importancia de características
-- Predicciones por archivo CSV o entrada manual
-- Descarga de resultados en CSV
 
 ##  Estructura del Proyecto
 PROYECTOTELCOMODAHM/
